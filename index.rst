@@ -1,5 +1,5 @@
 ##################
-How Do I Activate My McAfee Product Using mcafee.com/activate?
+How to activate your McAfee product using mcafee.com/activate?
 ##################
 
 .. meta::
