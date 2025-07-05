@@ -3,7 +3,7 @@ How to activate your McAfee product using mcafee.com/activate?
 ##################
 
 .. meta::
-   :msvalidate.01: 15588D6A933A59B60A740DC3014201CA
+   :msvalidate.01: 79062439FF46DE4F09274CF8F25244E0
 
 .. image:: blank.png
    :width: 350px
